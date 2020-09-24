@@ -26,7 +26,7 @@ class CompoundInterest {
 			
 			rate = (1+rate/100);
 	        
-	    for (int i=0; i<time; i++)
+		    	for (int i=0; i<time; i++)
 	        	t*=rate;
 		 
 	 
