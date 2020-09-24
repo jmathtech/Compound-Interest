@@ -17,4 +17,4 @@ Scanner sc = new Scanner(System.in);
 ```
 
 #### Example of the java application
-
+![image](https://user-images.githubusercontent.com/36749450/94205069-759a1780-fe90-11ea-9932-3d15ec8da432.png)
