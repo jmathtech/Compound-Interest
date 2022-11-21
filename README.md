@@ -1,5 +1,5 @@
 # Compound Interest
-A java application to calculate the compound interest with the principal amount measured with time. 
+A java application to calculate the compound interest with the principal amount measured with time.
 
 
 #### What I've learned
